@@ -1,4 +1,4 @@
-FROM serverboi/base:steam
+FROM serverboi/base:latest
 #
 LABEL maintainer="serverboi@serverboi.org"
 #
